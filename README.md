@@ -1,7 +1,7 @@
 # Front-End-Crud-Integration
  # Softwares
-  [VS Code](https://code.visualstudio.com/download)
-  [NodeJS](https://nodejs.org/en/download)
+  - [VS Code](https://code.visualstudio.com/download)
+  - [NodeJS](https://nodejs.org/en/download)
 
 ## Angular Local Setup
  # [Angular Setup Local can be seen Here](https://angular.io/guide/setup-local)  
